@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Codename-Kris
+I'M a student of Altschool 
 - 👀 I’m interested in Front end engineering 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Html/Css
