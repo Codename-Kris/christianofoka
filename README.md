@@ -1,4 +1,4 @@
-- 👋 Hi, my Name is Christian 
+- 👋 Hi, my Name is Christian Ofoka
  
 - 👀 I’m interested in Front end engineering 
 - 🌱 I’m currently learning Javascript
