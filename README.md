@@ -2,7 +2,7 @@
  
 - 👀 I’m interested in Front end engineering 
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Html/Css
+- 💞️ I’m looking to collaborate on Html, CSS and HTML
 - 📫 How to reach me @meetkristian on instagram
 
 <!---
