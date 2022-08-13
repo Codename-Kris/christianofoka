@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Codename-Kris
+- 👋 Hi, my Name is Christian 
  
 - 👀 I’m interested in Front end engineering 
 - 🌱 I’m currently learning Javascript
